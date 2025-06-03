@@ -1,0 +1,1 @@
+![Dashboard boxplot](https://github.com/Rodmigniha/politique-confidentialite/blob/main/Politique-confidentialite.pdf)
